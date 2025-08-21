@@ -8,8 +8,8 @@
 
 После чего выполните следующие действия в коммандной строке:
 ```
-git clone https://github.com/popka098/vue-fastapi-project.git
-cd vue-fastapi-project
+git clone https://github.com/popka098/task-traker.git
+cd task-traker
 make install
 ```
 Благодаря данным действиям проект будет готов к работе
